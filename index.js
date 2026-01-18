@@ -106,5 +106,6 @@ process.on('uncaughtException', error => {
     console.error('🚨 Error no manejado (Exception):', error);
 });
 
-client.login('MTM5MDExMTU1NjgyNTc4MDMxNA.G8ntml.SYdOUCo6_VH10HurYdyFotxpIJSuK1WN5mXn_E');
+client.login(process.env.DISCORD_TOKEN);
+
 
