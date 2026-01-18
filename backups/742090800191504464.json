@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1768718593979,
+    "serverName": "Ola",
+    "createdTimestamp": 1768718593979,
+    "date": "18/1/2026, 2:43:13 a. m.",
+    "roles": [
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 98
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": true,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 97
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": true,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 96
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": true,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 95
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": true,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 94
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2108863302074367",
+        "mentionable": false,
+        "position": 93
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": true,
+        "permissions": "309097988333718",
+        "mentionable": false,
+        "position": 92
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": true,
+        "permissions": "300171133517954",
+        "mentionable": false,
+        "position": 91
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": true,
+        "permissions": "282578946883712",
+        "mentionable": false,
+        "position": 90
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": true,
+        "permissions": "1099650039936",
+        "mentionable": false,
+        "position": 89
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 88
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": true,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 86
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 85
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 84
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 83
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "0",
+        "mentionable": false,
+        "position": 82
+      },
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 80
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 79
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 78
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 77
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 76
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 75
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 74
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 73
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 72
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 71
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 70
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 69
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 68
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 67
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 66
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 65
+      },
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 64
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 63
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 62
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 61
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 60
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 59
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 58
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 57
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 56
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 55
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 54
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 53
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 52
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 51
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 50
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 49
+      },
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 48
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 47
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 46
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 45
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 44
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 43
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 42
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 41
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 40
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 39
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 38
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": true,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 37
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 36
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 35
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 34
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 33
+      },
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 32
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 31
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 30
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 29
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 28
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 27
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 26
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 25
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 24
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 23
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 22
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 21
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 20
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 19
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 18
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 17
+      },
+      {
+        "name": "- Roles Administracion -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 16
+      },
+      {
+        "name": "- Roles Miembros",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 15
+      },
+      {
+        "name": "- Roles AutoRoles -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 14
+      },
+      {
+        "name": "- Roles LVL -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 13
+      },
+      {
+        "name": "- IDK -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 12
+      },
+      {
+        "name": "Member",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 11
+      },
+      {
+        "name": "No Verificado",
+        "color": 16711680,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 10
+      },
+      {
+        "name": "Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 9
+      },
+      {
+        "name": "Holder",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 8
+      },
+      {
+        "name": "Administradores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 7
+      },
+      {
+        "name": "Co-Owners",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 6
+      },
+      {
+        "name": "- Perms All -",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 5
+      },
+      {
+        "name": "Moderadores",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 4
+      },
+      {
+        "name": "Staffs",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 3
+      },
+      {
+        "name": "Helpers",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 2
+      },
+      {
+        "name": "Supports",
+        "color": 0,
+        "hoist": false,
+        "permissions": "2222085186637377",
+        "mentionable": false,
+        "position": 1
+      }
+    ],
+    "categories": [
+      {
+        "name": "wausdoufahjso´fa",
+        "permissions": [],
+        "channels": [
+          {
+            "name": "sadawd",
+            "type": 2,
+            "topic": null,
+            "nsfw": false,
+            "userLimit": 0,
+            "bitrate": 64000,
+            "permissions": []
+          },
+          {
+            "name": "asdfadsfa",
+            "type": 15,
+            "topic": null,
+            "nsfw": false,
+            "userLimit": 0,
+            "bitrate": 64000,
+            "permissions": []
+          },
+          {
+            "name": "dgadfasd",
+            "type": 5,
+            "topic": null,
+            "nsfw": false,
+            "userLimit": 0,
+            "bitrate": 64000,
+            "permissions": [
+              {
+                "roleName": "@everyone",
+                "allow": "0",
+                "deny": "2048"
+              }
+            ]
+          },
+          {
+            "name": "adfasda",
+            "type": 13,
+            "topic": null,
+            "nsfw": false,
+            "userLimit": 10000,
+            "bitrate": 64000,
+            "permissions": []
+          },
+          {
+            "name": "asdasfa",
+            "type": 0,
+            "topic": null,
+            "nsfw": false,
+            "userLimit": 0,
+            "bitrate": 64000,
+            "permissions": []
+          }
+        ]
+      }
+    ],
+    "orphans": [
+      {
+        "name": "rules",
+        "type": 0,
+        "topic": null,
+        "permissions": [
+          {
+            "roleName": "@everyone",
+            "allow": "1024",
+            "deny": "2048"
+          }
+        ]
+      },
+      {
+        "name": "moderator-only",
+        "type": 0,
+        "topic": null,
+        "permissions": [
+          {
+            "roleName": "- Roles Administracion -",
+            "allow": "1049600",
+            "deny": "0"
+          },
+          {
+            "roleName": "@everyone",
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "name": "rules",
+        "type": 0,
+        "topic": null,
+        "permissions": []
+      },
+      {
+        "name": "moderator-only",
+        "type": 0,
+        "topic": null,
+        "permissions": []
+      }
+    ],
+    "afkChannel": null,
+    "systemChannel": null
+  }
+]
