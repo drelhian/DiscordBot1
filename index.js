@@ -187,4 +187,5 @@ process.on('uncaughtException', error => {
     console.error('🚨 Error no manejado (Exception):', error);
 });
 
-client.login('process.env.DISCORD_TOKEN');
+client.login(process.env.DISCORD_TOKEN);
+
